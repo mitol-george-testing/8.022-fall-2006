@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "85ab3674-2b69-2eb7-b0f7-94ae0b25566e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physics II: Electricity and Magnetism",
+  "course_description": "This course runs parallel to 8.02, but assumes that students have some knowledge of vector calculus. The class introduces Maxwell's equations, in both differential and integral form, along with electrostatic and magnetic vector potential, and the properties of dielectrics and magnetic materials.\n\nThis class was taught by an undergraduate in the [Experimental Study Group](http://esg.mit.edu/) (ESG). Student instructors are paired with ESG faculty members, who advise and oversee the students' teaching efforts.\n",
+  "department_numbers": [
+    "8",
+    "ES"
+  ],
+  "extra_course_numbers": "ES.8022",
+  "primary_course_number": "8.022",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
